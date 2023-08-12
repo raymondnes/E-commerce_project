@@ -14,8 +14,7 @@ Before you begin, ensure you have met the following requirements:
 ## Contact
 
 If you want to contact the authors you can reach me at 
-- [Twitter](https://www.twitter.com/ride_gray)
-- [Twitter](https://www.twitter.come/{enter_your_username})
-.
+- [Twitter](https://www.twitter.com/ride_gray) Raymond Toritseju Nesiama
+- [Twitter](https://www.twitter.come/{enter_your_username}) Chikadibia Ezeunara Felix
 
 
